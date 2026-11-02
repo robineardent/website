@@ -1,0 +1,1 @@
+const e={wordmark:"/images/logo.png",wordmarkLight:"/images/logo-ivoire.png",portalPreview:"/images/portail-vue-client.png"},r=[{label:"Le cabinet",href:"/le-cabinet"},{label:"Services",href:"/services"},{label:"Journal",href:"/journal"},{label:"Portail client",href:"/portail-client"},{label:"Carrière",href:"/carriere"}];export{e as b,r as n};
